@@ -1,0 +1,325 @@
+body {
+    text-align: center;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+ul {
+    color: #000000;
+    list-style-type: none;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 50px;
+}
+
+
+/* SITE HEADER */
+.site-header {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 1140px;
+    display: inline-block;
+}
+
+.site-logo-img {
+    width: 160px;
+    height: 41px;
+}
+
+.site-nav-list {
+    color: #1F1534;
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.site-nav-item-activ {
+    display: inline-block;
+}
+
+.site-nav-item {
+    display: inline-block;
+    padding: 20px;
+    opacity: 0.5;
+}
+
+
+/* Hero-1. */
+
+.site-hero {
+    margin-bottom: 100px;
+}
+
+.hero-box {
+    display: inline-block;
+    text-align: start;
+    width: 445px;
+    margin: 50px;
+}
+
+.hero-1-heading {
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.hero-1-text {
+    color: #7D7987;
+    font-size: 21px;
+    line-height: 32px;
+}
+
+.hero-1-link {
+    background-color: #458FF6;
+    color: #ffffff;
+    display: inline-block;
+    border: 2px solid #458FF6;
+    text-align: center;
+    width: 200px;
+    height: 56px;
+}
+
+.hero-1-img {
+    width: 693px;
+    height: 598px;
+}
+
+
+/* "Service" */
+.service {
+    margin-bottom: 100px;
+}
+
+hr {
+    background: #000000;
+    width: 56px;
+    height: 2px;
+}
+
+.service-text {
+    display: inline-block;
+    width: 952px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.service-list {
+    display: inline-block;
+    width: 1200px;
+}
+
+.service-list-item {
+    background-color: #f9faf9;
+    display: inline-block;
+    text-align: start;
+    box-sizing: border-box;
+    padding: 50px 50px 45px 40px;
+    margin: 11px;
+    width: 350px;
+}
+
+.service-img {
+    width: 90px;
+    height: 90px;
+}
+
+.service-heading {
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.service-list-text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+
+.link-learn {
+    text-align: center;
+    display: inline-block;
+    color: #458FF6;
+    font-size: 18px;
+    line-height: 60px;
+    width: 200px;
+    height: 56px;
+    border: 2px solid #458FF6;
+}
+
+
+/* Hero-2. */
+
+.hero-2-img {
+    width: 650px;
+    height: 477px;
+}
+
+.hero-text {
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.hero-3-link {
+    display: inline-block;
+    text-align: center;
+    color: #458FF6;
+    font-size: 18px;
+    line-height: 60px;
+    width: 200px;
+    height: 56px;
+    border: 2px solid #458FF6;
+}
+
+.hero-3-img {
+    width: 665px;
+    height: 434px;
+}
+
+
+/* Iqtibos keltirilgan qism. */
+
+.quote {
+    background-color: #60ABF2;
+    color: #ffffff;
+    text-align: center;
+    display: inline-block;
+    width: 1120px;
+    margin-bottom: 150px;
+}
+
+.quote-hr {
+    background: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 70px;
+}
+
+.quote-box {
+    display: inline-block;
+}
+
+.quote-left_side {
+    width: 350px;
+    display: inline-block;
+}
+
+.quote-img {
+    width: 141px;
+    height: 141px;
+}
+
+.quote-box-name {
+    display: inline-block;
+}
+
+.quote-text-1 {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 48px;
+}
+
+.quote-text-2 {
+    font-size: 18px;
+    line-height: 48px;
+}
+
+blockquote {
+    display: inline-block;
+    width: 420px;
+    font-size: 19px;
+    line-height: 30px;
+}
+
+
+/* "Article"-Maqola qismni. */
+.article {
+    margin-bottom: 100px;
+}
+
+.article-list {
+    display: inline-block;
+    width: 1200px;
+    margin-bottom: 50px;
+}
+
+.article-list-item {
+    background-color: #f9faf9;
+    display: inline-block;
+    text-align: start;
+    width: 370px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #f9faf9;
+}
+
+.article-img {
+    width: 350px;
+    height: 240px;
+}
+
+.article-heading {
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 32px;
+}
+
+.article-text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.article-link {
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+}
+
+
+
+/* "Footer"-ya'ni Eng pastki qism */
+
+.footer {
+    background-color: #60ABF2;
+    color: #ffffff;
+}
+
+.footer-side-info {
+    display: inline-block;
+    text-align: start;
+    width: 380px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.footer-box {
+    display: inline-block;
+    text-align: start;
+    width: 220px;
+}
+
+.footer-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+.footer-link {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 38px;
+}
+
+
+/* Ustoz "O'zingni takrorlama" iborasini man teskarisini qivotganga ko'shiman, chunki ba'zi stillani qayta qayta takrorlavomman. Shu takrorlanvotgan stillani qisqartirishni yo'li yo'qmi? */
